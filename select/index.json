@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "RED OUT",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-10T09:47:02.853316Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RED OUT",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/01_RED_OUT_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RED OUT",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_RED_OUT_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Red Out of the Blue",
+      "artist": "Liar Thief Bandit",
+      "has_synced": true,
+      "path": "select/03_Red_Out_of_the_Blue_Liar_Thief_Bandit.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "RED OUT",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_RED_OUT_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "RED OUT",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_RED_OUT_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "RED OUT",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/06_RED_OUT_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RED OUT",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_RED_OUT_米津玄師.txt"
+    }
+  ]
+}
